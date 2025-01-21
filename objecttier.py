@@ -1,6 +1,6 @@
 # Name: Lisette Ruano
 # Class: CS 341, Fall 2024
-# Overview: Project 2 - Part 2 - Chicago Lobbyist Database App
+# Overview: Chicago Lobbyist Database App
 #
 # objecttier
 #
