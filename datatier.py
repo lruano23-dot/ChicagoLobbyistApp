@@ -1,4 +1,6 @@
-#
+# Name: Lisette Ruano
+# Class: CS 341, Fall 2024
+# Overview: Chicago Lobbyist Database App
 # datatier.py
 #
 # Executes SQL queries against the given database.
